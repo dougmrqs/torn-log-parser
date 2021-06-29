@@ -1,0 +1,18 @@
+{
+  "name": "TornPlushieSet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jssoup": "^0.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "plushies": "node src/plushies.js",
+    "vault": "node src/vault.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
