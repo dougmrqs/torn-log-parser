@@ -1,52 +1,72 @@
-You withdrew $4,000,000 from your spouse's Private Island's vault reducing the balance to $9,976,225
-2 DAYS AGO
-11:35:38 - 26/06/21
-You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $13,976,225
-11:33:37 - 26/06/21
-You withdrew $4,000,000 from your spouse's Private Island's vault reducing the balance to $14,976,225
-3 DAYS AGO
-11:53:01 - 25/06/21
-You deposited $6,000,000 into your spouse's Private Island's vault increasing the balance to $18,976,225
-01:02:47 - 25/06/21
-You deposited $4,000,000 into your spouse's Private Island's vault increasing the balance to $12,976,225
-00:55:59 - 25/06/21
-You deposited $4,000,000 into your spouse's Private Island's vault increasing the balance to $8,976,225
-00:47:20 - 25/06/21
-You deposited $4,000,000 into your spouse's Private Island's vault increasing the balance to $4,976,225
+You deposited $5,000,000 into your spouse's Private Island's vault increasing the balance to $55,834,134
+12:52:29 - 24/09/21
+You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $50,834,134
+12:32:10 - 24/09/21
+You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $51,834,134
 4 DAYS AGO
-12:50:38 - 24/06/21
-You withdrew $4,000,000 from your spouse's Private Island's vault reducing the balance to $976,225
-03:18:27 - 24/06/21
-You deposited $2,000,000 into your spouse's Private Island's vault increasing the balance to $4,976,225
-02:58:28 - 24/06/21
-You deposited $2,000,000 into your spouse's Private Island's vault increasing the balance to $2,976,225
-02:54:28 - 24/06/21
-You withdrew $2,000,000 from your spouse's Private Island's vault reducing the balance to $976,225
+12:57:46 - 23/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $51,934,134
+00:57:23 - 23/09/21
+You deposited $5,000,000 into your spouse's Private Island's vault increasing the balance to $50,934,134
 5 DAYS AGO
-01:24:48 - 23/06/21
-You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $3,476,225
-6 DAYS AGO
-16:29:15 - 22/06/21
-You withdrew $3,000,000 from your spouse's Private Island's vault reducing the balance to $4,476,225
-12:14:20 - 22/06/21
-You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $8,976,225
+12:12:48 - 22/09/21
+You deposited $5,000,000 into your spouse's Private Island's vault increasing the balance to $33,411,098
 7 DAYS AGO
-16:29:51 - 21/06/21
-You deposited $4,000,000 into your spouse's Private Island's vault increasing the balance to $19,976,225
-11:37:18 - 21/06/21
-You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $15,976,225
-10 DAYS AGO
-12:18:10 - 18/06/21
-You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $24,024,567
+01:38:33 - 20/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $28,411,098
 11 DAYS AGO
-18:23:14 - 17/06/21
-You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $29,024,567
-12 DAYS AGO
-16:16:43 - 16/06/21
-You deposited $5,000,000 into your spouse's Private Island's vault increasing the balance to $688,371,176
-11:43:48 - 16/06/21
-You deposited $5,000,000 into your spouse's Private Island's vault increasing the balance to $683,371,176
-01:38:41 - 16/06/21
-You deposited $20,000,000 into your spouse's Private Island's vault increasing the balance to $681,371,176
-01:14:43 - 16/06/21
-You deposited $233,901,605 into your spouse's Private Island's vault increasing the balance to $661,371,176
+17:12:18 - 16/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $7,689,600
+13 DAYS AGO
+13:29:57 - 14/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $6,689,600
+00:11:27 - 14/09/21
+You deposited $4,000,000 into your spouse's Private Island's vault increasing the balance to $5,689,600
+23:50:31 - 13/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $1,689,600
+14 DAYS AGO
+21:46:37 - 12/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $71,685,623
+15 DAYS AGO
+16:31:37 - 12/09/21
+You deposited $2,000,000 into your spouse's Private Island's vault increasing the balance to $50,985,988
+22:05:14 - 11/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $48,985,988
+17 DAYS AGO
+21:43:36 - 09/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $48,085,988
+18 DAYS AGO
+22:29:21 - 08/09/21
+You deposited $2,000,000 into your spouse's Private Island's vault increasing the balance to $11,309,314
+20 DAYS AGO
+12:30:06 - 07/09/21
+You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $9,309,314
+23:49:26 - 06/09/21
+You deposited $5,000,000 into your spouse's Private Island's vault increasing the balance to $10,309,314
+21 DAYS AGO
+18:01:42 - 06/09/21
+You withdrew $5,000,000 from your spouse's Private Island's vault reducing the balance to $5,309,314
+18:00:14 - 06/09/21
+You withdrew $5,000,000 from your spouse's Private Island's vault reducing the balance to $10,309,314
+17:55:10 - 06/09/21
+You deposited $10,000,000 into your spouse's Private Island's vault increasing the balance to $15,309,314
+23 DAYS AGO
+20:02:53 - 04/09/21
+You deposited $2,000,000 into your spouse's Private Island's vault increasing the balance to $6,309,314
+24 DAYS AGO
+17:58:22 - 03/09/21
+You deposited $1,000,000 into your spouse's Private Island's vault increasing the balance to $4,309,314
+25 DAYS AGO
+12:13:54 - 02/09/21
+You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $3,309,314
+12:12:52 - 02/09/21
+You withdrew $2,000,000 from your spouse's Private Island's vault reducing the balance to $4,309,314
+26 DAYS AGO
+21:01:14 - 31/08/21
+You withdrew $1,000,000 from your spouse's Private Island's vault reducing the balance to $6,409,314
+27 DAYS AGO
+02:58:56 - 31/08/21
+You deposited $3,000,000 into your spouse's Private Island's vault increasing the balance to $8,409,314
+28 DAYS AGO
+00:18:54 - 30/08/21
+You deposited $3,000,000 into your spouse's Private Island's vault increasing the balance to $7,109,314
